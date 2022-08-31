@@ -1,1 +1,1 @@
-pwd
+Shell basics command
