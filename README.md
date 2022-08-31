@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-This will help me to write scripts on shell basics.
+This will help me to write scripts on shell basics and more.
